@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\saturnino\documents\visual studio 2015\projects\signalr\demochatsignalr\demosignalr\demosignalr.windowsphone\obj\debug\intermediatexaml\demosignalr.windowsphone.exe" HashGuid="0b7ccb6a-70bb-6df8-2b46-f48b3f862160" />
+    <ReferenceAssembly PathName="c:\users\saturnino\source\repos\demosignalr\demochatsignalr\packages\microsoft.aspnet.signalr.client.2.2.0\lib\portable-win81+wpa81\microsoft.aspnet.signalr.client.dll" HashGuid="122fd8fc-0022-0dd0-2020-cd60e5b50849" />
+    <ReferenceAssembly PathName="c:\users\saturnino\source\repos\demosignalr\demochatsignalr\packages\microsoft.aspnet.signalr.client.2.2.0\lib\portable-win81+wpa81\microsoft.aspnet.signalr.client.store.dll" HashGuid="db15ee65-549a-89a1-7a28-15a9e99ac2e1" />
+    <ReferenceAssembly PathName="c:\users\saturnino\source\repos\demosignalr\demochatsignalr\packages\windowsazure.mobileservices.1.3.2\lib\wpa81\microsoft.windowsazure.mobile.dll" HashGuid="5b462045-d27b-e518-25e9-78bf6305d2d1" />
+    <ReferenceAssembly PathName="c:\users\saturnino\source\repos\demosignalr\demochatsignalr\packages\windowsazure.mobileservices.1.3.2\lib\wpa81\microsoft.windowsazure.mobile.ext.dll" HashGuid="55d46a17-b94f-0632-1660-bd4332856778" />
+    <ReferenceAssembly PathName="c:\users\saturnino\source\repos\demosignalr\demochatsignalr\packages\newtonsoft.json.6.0.4\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="02b12ba6-881e-6b8a-1687-5b2ee1851a11" />
+    <ReferenceAssembly PathName="c:\users\saturnino\source\repos\demosignalr\demochatsignalr\packages\microsoft.net.http.2.2.28\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="c:\users\saturnino\source\repos\demosignalr\demochatsignalr\packages\microsoft.net.http.2.2.28\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

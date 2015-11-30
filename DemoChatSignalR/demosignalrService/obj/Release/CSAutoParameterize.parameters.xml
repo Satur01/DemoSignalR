@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MS_TableConnectionString-Web.config Connection String" description="MS_TableConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\aspnet-demosignalrService-20151109114357.mdf;Initial Catalog=aspnet-demosignalrService-20151109114357;Integrated Security=True;MultipleActiveResultSets=True;User Instance=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Saturnino\\Documents\\Visual\ Studio\ 2015\\Projects\\SignalR\\DemoChatSignalR\\demosignalrService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MS_TableConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="MS_NotificationHubConnectionString-Web.config Connection String" description="MS_NotificationHubConnectionString Connection String used in web.config by the application to access the database." defaultValue="Endpoint=sb://[your namespace].servicebus.windows.net;SharedSecretIssuer=owner;SharedSecretValue=[your secret]" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Saturnino\\Documents\\Visual\ Studio\ 2015\\Projects\\SignalR\\DemoChatSignalR\\demosignalrService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MS_NotificationHubConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

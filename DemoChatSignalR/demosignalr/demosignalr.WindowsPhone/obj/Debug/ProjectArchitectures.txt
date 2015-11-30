@@ -1,0 +1,1 @@
+C:\Users\Saturnino\Source\Repos\DemoSignalR\DemoChatSignalR\demosignalr\demosignalr.WindowsPhone\demosignalr.WindowsPhone.csproj;neutral
